@@ -14,7 +14,7 @@
     "redux-thunk": "^2.3.0",
     "swiper": "^4.5.0"
   },
-  "homepage": "https://never-wjj.github.io/artcollection",
+  "homepage": "https://never-wjj.github.io/yiji",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
