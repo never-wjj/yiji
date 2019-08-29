@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yiji/static/css/main.e6f3ee52.chunk.css",
+    "main.js": "/yiji/static/js/main.f7c8b42f.chunk.js",
+    "main.js.map": "/yiji/static/js/main.f7c8b42f.chunk.js.map",
+    "runtime~main.js": "/yiji/static/js/runtime~main.5a7f6ba9.js",
+    "runtime~main.js.map": "/yiji/static/js/runtime~main.5a7f6ba9.js.map",
+    "static/css/2.acb72abc.chunk.css": "/yiji/static/css/2.acb72abc.chunk.css",
+    "static/js/2.16b70927.chunk.js": "/yiji/static/js/2.16b70927.chunk.js",
+    "static/js/2.16b70927.chunk.js.map": "/yiji/static/js/2.16b70927.chunk.js.map",
+    "index.html": "/yiji/index.html",
+    "precache-manifest.623daa476b5687209693788c3de25dd0.js": "/yiji/precache-manifest.623daa476b5687209693788c3de25dd0.js",
+    "service-worker.js": "/yiji/service-worker.js",
+    "static/css/2.acb72abc.chunk.css.map": "/yiji/static/css/2.acb72abc.chunk.css.map",
+    "static/css/main.e6f3ee52.chunk.css.map": "/yiji/static/css/main.e6f3ee52.chunk.css.map"
+  }
+}
